@@ -1,2 +1,2 @@
 # Splines
-crco di capire come funziona github
+cerco di capire come funziona github
